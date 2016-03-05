@@ -4,6 +4,8 @@ Assignment #8 for INFO 498F - Samuel Tompkins
 ## Link
 https://samtompk.shinyapps.io/a8-iris-data-vis/
 
+## Submission Questions
+
 ##### 1. Did you receive any help from others (classmates, etc)? If so, please list who.
 
 > I asked one classmate a quick question over Slack
